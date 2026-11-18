@@ -1,0 +1,2 @@
+# Password-Cracking-with-John-the-Ripper-JTR-GUI-CLI-and-NetworkWalks-Hash-Calculator-Password-Cracker
+🔐 Week 3 –> Project Modules 1 &amp; 2: Password Cracking with John the Ripper (JTR, GUI + CLI) and NetworkWalks Hash Calculator &amp; Password Cracker. Extracted a $pdf$ hash from a protected PDF and recovered the password using dictionary attacks. Educational lab writeup for Cybersecurity &amp; Ethical Hacking.
